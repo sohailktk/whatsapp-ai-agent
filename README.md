@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=""ideogram-v3.0_Minimal_modern_logo_of_a_chatbot_with_WhatsApp_style_green_theme_AI_brain_icon_c-0.jpg"" width="120"/>
+</p>
+
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![AI](https://img.shields.io/badge/AI-powered-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
