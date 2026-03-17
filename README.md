@@ -1,3 +1,9 @@
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![AI](https://img.shields.io/badge/AI-powered-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+🚧 Actively under development — new features added regularly.
+
 # 🤖 WhatsApp AI Agent
 
 An advanced AI-powered WhatsApp assistant designed for clinics and small businesses to automate communication, appointment booking, and customer support.
@@ -76,3 +82,25 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ## 📄 License
 
 MIT License
+
+
+## 🧱 Architecture
+
+```text
+User (WhatsApp)
+        │
+        ▼
+WhatsApp API
+        │
+        ▼
+n8n Workflow Automation
+        │
+        ├── AI Model (Claude / OpenAI)
+        ├── OCR Processing
+        ├── Email Notification System
+        ▼
+Response sent back to User
+
+
+
+
